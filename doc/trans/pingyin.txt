@@ -1,0 +1,41 @@
+A2_0 lv4 shi4 yang2 chun1 yan1 jing3 da4 kuai4 wen2 zhang1 de5 di3 se4 si4 yue4 de5 lin2 luan2 geng4 shi4 lv4 de5 xian1 huo2 xiu4 mei4 shi1 yi4 ang4 ran2 
+A2_1 ta1 jin3 ping2 yao1 bu4 de5 li4 liang4 zai4 yong3 dao4 shang4 xia4 fan1 teng2 yong3 dong4 she2 xing2 zhuang4 ru2 hai3 tun2 yi4 zhi2 yi3 yi4 tou2 de5 you1 shi4 ling3 xian1
+A4_0 lv4 shi4 yang2 chun1 yan1 jing3 da4 kuai4 wen2 zhang1 de5 di3 se4 si4 yue4 de5 lin2 luan2 geng4 shi4 lv4 de5 xian1 huo2 xiu4 mei4 shi1 yi4 ang4 ran2 
+A4_1 ta1 jin3 ping2 yao1 bu4 de5 li4 liang4 zai4 yong3 dao4 shang4 xia4 fan1 teng2 yong3 dong4 she2 xing2 zhuang4 ru2 hai3 tun2 yi4 zhi2 yi3 yi4 tou2 de5 you1 shi4 ling3 xian1
+A5_0 lv4 shi4 yang2 chun1 yan1 jing3 da4 kuai4 wen2 zhang1 de5 di3 se4 si4 yue4 de5 lin2 luan2 geng4 shi4 lv4 de5 xian1 huo2 xiu4 mei4 shi1 yi4 ang4 ran2 
+A5_1 ta1 jin3 ping2 yao1 bu4 de5 li4 liang4 zai4 yong3 dao4 shang4 xia4 fan1 teng2 yong3 dong4 she2 xing2 zhuang4 ru2 hai3 tun2 yi4 zhi2 yi3 yi4 tou2 de5 you1 shi4 ling3 xian1
+A6_0 lv4 shi4 yang2 chun1 yan1 jing3 da4 kuai4 wen2 zhang1 de5 di3 se4 si4 yue4 de5 lin2 luan2 geng4 shi4 lv4 de5 xian1 huo2 xiu4 mei4 shi1 yi4 ang4 ran2 
+A6_1 ta1 jin3 ping2 yao1 bu4 de5 li4 liang4 zai4 yong3 dao4 shang4 xia4 fan1 teng2 yong3 dong4 she2 xing2 zhuang4 ru2 hai3 tun2 yi4 zhi2 yi3 yi4 tou2 de5 you1 shi4 ling3 xian1
+A7_0 lv4 shi4 yang2 chun1 yan1 jing3 da4 kuai4 wen2 zhang1 de5 di3 se4 si4 yue4 de5 lin2 luan2 geng4 shi4 lv4 de5 xian1 huo2 xiu4 mei4 shi1 yi4 ang4 ran2 
+A7_1 ta1 jin3 ping2 yao1 bu4 de5 li4 liang4 zai4 yong3 dao4 shang4 xia4 fan1 teng2 yong3 dong4 she2 xing2 zhuang4 ru2 hai3 tun2 yi4 zhi2 yi3 yi4 tou2 de5 you1 shi4 ling3 xian1
+A8_0 lv4 shi4 yang2 chun1 yan1 jing3 da4 kuai4 wen2 zhang1 de5 di3 se4 si4 yue4 de5 lin2 luan2 geng4 shi4 lv4 de5 xian1 huo2 xiu4 mei4 shi1 yi4 ang4 ran2 
+A8_1 ta1 jin3 ping2 yao1 bu4 de5 li4 liang4 zai4 yong3 dao4 shang4 xia4 fan1 teng2 yong3 dong4 she2 xing2 zhuang4 ru2 hai3 tun2 yi4 zhi2 yi3 yi4 tou2 de5 you1 shi4 ling3 xian1
+A9_0 lv4 shi4 yang2 chun1 yan1 jing3 da4 kuai4 wen2 zhang1 de5 di3 se4 si4 yue4 de5 lin2 luan2 geng4 shi4 lv4 de5 xian1 huo2 xiu4 mei4 shi1 yi4 ang4 ran2 
+A9_1 ta1 jin3 ping2 yao1 bu4 de5 li4 liang4 zai4 yong3 dao4 shang4 xia4 fan1 teng2 yong3 dong4 she2 xing2 zhuang4 ru2 hai3 tun2 yi4 zhi2 yi3 yi4 tou2 de5 you1 shi4 ling3 xian1
+A9_2 qi3 ye4 yi1 kao4 ji4 shu4 wa1 qian2 zeng1 xiao4 ta1 fu4 ze2 quan2 chang3 chan2 pin3 zhi4 liang4 yu3 ji4 shu4 pei2 xun4 cheng2 le5 chang3 li3 de5 da4 mang2 ren2
+A11_0 lv4 shi4 yang2 chun1 yan1 jing3 da4 kuai4 wen2 zhang1 de5 di3 se4 si4 yue4 de5 lin2 luan2 geng4 shi4 lv4 de5 xian1 huo2 xiu4 mei4 shi1 yi4 ang4 ran2 
+A11_1 ta1 jin3 ping2 yao1 bu4 de5 li4 liang4 zai4 yong3 dao4 shang4 xia4 fan1 teng2 yong3 dong4 she2 xing2 zhuang4 ru2 hai3 tun2 yi4 zhi2 yi3 yi4 tou2 de5 you1 shi4 ling3 xian1
+A12_0 lv4 shi4 yang2 chun1 yan1 jing3 da4 kuai4 wen2 zhang1 de5 di3 se4 si4 yue4 de5 lin2 luan2 geng4 shi4 lv4 de5 xian1 huo2 xiu4 mei4 shi1 yi4 ang4 ran2 
+A12_1 ta1 jin3 ping2 yao1 bu4 de5 li4 liang4 zai4 yong3 dao4 shang4 xia4 fan1 teng2 yong3 dong4 she2 xing2 zhuang4 ru2 hai3 tun2 yi4 zhi2 yi3 yi4 tou2 de5 you1 shi4 ling3 xian1
+A13_0 lv4 shi4 yang2 chun1 yan1 jing3 da4 kuai4 wen2 zhang1 de5 di3 se4 si4 yue4 de5 lin2 luan2 geng4 shi4 lv4 de5 xian1 huo2 xiu4 mei4 shi1 yi4 ang4 ran2 
+A13_1 ta1 jin3 ping2 yao1 bu4 de5 li4 liang4 zai4 yong3 dao4 shang4 xia4 fan1 teng2 yong3 dong4 she2 xing2 zhuang4 ru2 hai3 tun2 yi4 zhi2 yi3 yi4 tou2 de5 you1 shi4 ling3 xian1
+A19_0 lv4 shi4 yang2 chun1 yan1 jing3 da4 kuai4 wen2 zhang1 de5 di3 se4 si4 yue4 de5 lin2 luan2 geng4 shi4 lv4 de5 xian1 huo2 xiu4 mei4 shi1 yi4 ang4 ran2 
+A19_1 ta1 jin3 ping2 yao1 bu4 de5 li4 liang4 zai4 yong3 dao4 shang4 xia4 fan1 teng2 yong3 dong4 she2 xing2 zhuang4 ru2 hai3 tun2 yi4 zhi2 yi3 yi4 tou2 de5 you1 shi4 ling3 xian1
+A22_0 lv4 shi4 yang2 chun1 yan1 jing3 da4 kuai4 wen2 zhang1 de5 di3 se4 si4 yue4 de5 lin2 luan2 geng4 shi4 lv4 de5 xian1 huo2 xiu4 mei4 shi1 yi4 ang4 ran2 
+A22_1 ta1 jin3 ping2 yao1 bu4 de5 li4 liang4 zai4 yong3 dao4 shang4 xia4 fan1 teng2 yong3 dong4 she2 xing2 zhuang4 ru2 hai3 tun2 yi4 zhi2 yi3 yi4 tou2 de5 you1 shi4 ling3 xian1
+A23_0 lv4 shi4 yang2 chun1 yan1 jing3 da4 kuai4 wen2 zhang1 de5 di3 se4 si4 yue4 de5 lin2 luan2 geng4 shi4 lv4 de5 xian1 huo2 xiu4 mei4 shi1 yi4 ang4 ran2 
+A23_1 ta1 jin3 ping2 yao1 bu4 de5 li4 liang4 zai4 yong3 dao4 shang4 xia4 fan1 teng2 yong3 dong4 she2 xing2 zhuang4 ru2 hai3 tun2 yi4 zhi2 yi3 yi4 tou2 de5 you1 shi4 ling3 xian1
+A23_2 qi3 ye4 yi1 kao4 ji4 shu4 wa1 qian2 zeng1 xiao4 ta1 fu4 ze2 quan2 chang3 chan2 pin3 zhi4 liang4 yu3 ji4 shu4 pei2 xun4 cheng2 le5 chang3 li3 de5 da4 mang2 ren2
+A32_0 lv4 shi4 yang2 chun1 yan1 jing3 da4 kuai4 wen2 zhang1 de5 di3 se4 si4 yue4 de5 lin2 luan2 geng4 shi4 lv4 de5 xian1 huo2 xiu4 mei4 shi1 yi4 ang4 ran2 
+A32_1 ta1 jin3 ping2 yao1 bu4 de5 li4 liang4 zai4 yong3 dao4 shang4 xia4 fan1 teng2 yong3 dong4 she2 xing2 zhuang4 ru2 hai3 tun2 yi4 zhi2 yi3 yi4 tou2 de5 you1 shi4 ling3 xian1
+A32_2 qi3 ye4 yi1 kao4 ji4 shu4 wa1 qian2 zeng1 xiao4 ta1 fu4 ze2 quan2 chang3 chan2 pin3 zhi4 liang4 yu3 ji4 shu4 pei2 xun4 cheng2 le5 chang3 li3 de5 da4 mang2 ren2
+A33_0 lv4 shi4 yang2 chun1 yan1 jing3 da4 kuai4 wen2 zhang1 de5 di3 se4 si4 yue4 de5 lin2 luan2 geng4 shi4 lv4 de5 xian1 huo2 xiu4 mei4 shi1 yi4 ang4 ran2 
+A33_1 ta1 jin3 ping2 yao1 bu4 de5 li4 liang4 zai4 yong3 dao4 shang4 xia4 fan1 teng2 yong3 dong4 she2 xing2 zhuang4 ru2 hai3 tun2 yi4 zhi2 yi3 yi4 tou2 de5 you1 shi4 ling3 xian1
+A34_0 lv4 shi4 yang2 chun1 yan1 jing3 da4 kuai4 wen2 zhang1 de5 di3 se4 si4 yue4 de5 lin2 luan2 geng4 shi4 lv4 de5 xian1 huo2 xiu4 mei4 shi1 yi4 ang4 ran2 
+A34_1 ta1 jin3 ping2 yao1 bu4 de5 li4 liang4 zai4 yong3 dao4 shang4 xia4 fan1 teng2 yong3 dong4 she2 xing2 zhuang4 ru2 hai3 tun2 yi4 zhi2 yi3 yi4 tou2 de5 you1 shi4 ling3 xian1
+A35_0 lv4 shi4 yang2 chun1 yan1 jing3 da4 kuai4 wen2 zhang1 de5 di3 se4 si4 yue4 de5 lin2 luan2 geng4 shi4 lv4 de5 xian1 huo2 xiu4 mei4 shi1 yi4 ang4 ran2 
+A35_1 ta1 jin3 ping2 yao1 bu4 de5 li4 liang4 zai4 yong3 dao4 shang4 xia4 fan1 teng2 yong3 dong4 she2 xing2 zhuang4 ru2 hai3 tun2 yi4 zhi2 yi3 yi4 tou2 de5 you1 shi4 ling3 xian1
+A36_1 ta1 jin3 ping2 yao1 bu4 de5 li4 liang4 zai4 yong3 dao4 shang4 xia4 fan1 teng2 yong3 dong4 she2 xing2 zhuang4 ru2 hai3 tun2 yi4 zhi2 yi3 yi4 tou2 de5 you1 shi4 ling3 xian1
+
+
+
